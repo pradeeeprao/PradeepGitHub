@@ -1,4 +1,4 @@
 PradeepGitHub
 =============
 
-Personal repository of Pradeep
+Stores userfull powershell commands
