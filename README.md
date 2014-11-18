@@ -1,4 +1,4 @@
 PradeepGitHub
 =============
 
-Stores userfull powershell commands....
+Stores userfull powershell commands
