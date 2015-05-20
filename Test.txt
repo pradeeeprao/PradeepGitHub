@@ -2,4 +2,8 @@ This is a test
 Second edit
 This is 3rd edit
 4Th Edit
+<<<<<<< HEAD
 6Th edit
+=======
+This is 5th edit
+>>>>>>> origin/master
